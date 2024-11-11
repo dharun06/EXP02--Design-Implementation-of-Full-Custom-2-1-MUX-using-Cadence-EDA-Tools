@@ -91,7 +91,7 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ ![image](https://github.com/dharun06/EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools/blob/main/exp2vlsi.png)
 
 
 
